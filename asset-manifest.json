@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fizz-buzz/static/css/main.2b72abad.chunk.css",
+    "main.js": "/fizz-buzz/static/js/main.ec260246.chunk.js",
+    "main.js.map": "/fizz-buzz/static/js/main.ec260246.chunk.js.map",
+    "runtime-main.js": "/fizz-buzz/static/js/runtime-main.00cf4186.js",
+    "runtime-main.js.map": "/fizz-buzz/static/js/runtime-main.00cf4186.js.map",
+    "static/js/2.64354008.chunk.js": "/fizz-buzz/static/js/2.64354008.chunk.js",
+    "static/js/2.64354008.chunk.js.map": "/fizz-buzz/static/js/2.64354008.chunk.js.map",
+    "index.html": "/fizz-buzz/index.html",
+    "static/css/main.2b72abad.chunk.css.map": "/fizz-buzz/static/css/main.2b72abad.chunk.css.map",
+    "static/js/2.64354008.chunk.js.LICENSE.txt": "/fizz-buzz/static/js/2.64354008.chunk.js.LICENSE.txt",
+    "static/media/logo.0b38d4fe.svg": "/fizz-buzz/static/media/logo.0b38d4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00cf4186.js",
+    "static/js/2.64354008.chunk.js",
+    "static/css/main.2b72abad.chunk.css",
+    "static/js/main.ec260246.chunk.js"
+  ]
+}
