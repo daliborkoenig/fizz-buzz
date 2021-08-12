@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fizz-buzz/static/css/main.2b72abad.chunk.css",
-    "main.js": "/fizz-buzz/static/js/main.7fddf97e.chunk.js",
-    "main.js.map": "/fizz-buzz/static/js/main.7fddf97e.chunk.js.map",
+    "main.js": "/fizz-buzz/static/js/main.cb6cfcaa.chunk.js",
+    "main.js.map": "/fizz-buzz/static/js/main.cb6cfcaa.chunk.js.map",
     "runtime-main.js": "/fizz-buzz/static/js/runtime-main.00cf4186.js",
     "runtime-main.js.map": "/fizz-buzz/static/js/runtime-main.00cf4186.js.map",
     "static/js/2.64354008.chunk.js": "/fizz-buzz/static/js/2.64354008.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.00cf4186.js",
     "static/js/2.64354008.chunk.js",
     "static/css/main.2b72abad.chunk.css",
-    "static/js/main.7fddf97e.chunk.js"
+    "static/js/main.cb6cfcaa.chunk.js"
   ]
 }
