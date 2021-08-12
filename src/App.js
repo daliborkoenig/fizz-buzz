@@ -34,7 +34,7 @@ function App() {
     <div className="App">
       <img src={logo} />
       <button onClick={()=>fizzBuzzLog()}>Click me for console log</button>
-      {fizzBuzz().map(i=> i==="Fizz" ? <p key={Math.random()}>I am divisable with 3 so... {i}</p> : i==="Buzz" ? <p key={Math.random()}>I am divisable with 5 so... {i}</p> : i==="FizzBuzz" ? <p key={Math.random()}>I am divisable with 3 and 5 so... {i}</p> : <p key={Math.random()}>I am a nerd so... {i}</p>)}
+      {fizzBuzz().map(i=> i==="Fizz" ? <p key={Math.random()}>I am divisable with 3 so... {i}</p> : i==="Buzz" ? <p key={Math.random()}>I am divisable with 5 so... {i}</p> : i==="FizzBuzz" ? <p key={Math.random()}>I am divisable with 3 and 5 so... {i}</p> : <p key={Math.random()}>I don't have superpowers so... {i}</p>)}
 
     </div>
   );  
